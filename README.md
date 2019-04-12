@@ -1,5 +1,5 @@
 # Google Code Jam 2019
-These are my messy solutions for [Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/archive/2019) in **Python 3**. May only update after each round so no cheating :)
+These are my messy solutions for [Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/archive/2019) in **C++**. May only update after each round so no cheating :)
 
 In each folder, the following files can be present:
 * Vanilla files from the problem:
@@ -13,8 +13,8 @@ In each folder, the following files can be present:
   * `solution-mod-P|F[+].py`: My best solution submitted after the content, if `solution-sub-P|F[+].py` is not good enough, with results marked in the name. E.g., the solution passed 1st and 2nd test set but failed 3rd would be named `solution-mod-PPF.py`
   * Other files, if present, will be explained in `analysis.md`
 
-## Why Python 3?
-It's good enough; it runs fast enough; I'm lazy; it has much handled for me.
+## Why C++?
+It's good enough; it runs fast enough; I'm used to it.
 
 ## Results
 * Qualification: 100/100, #154
@@ -24,7 +24,6 @@ It's good enough; it runs fast enough; I'm lazy; it has much handled for me.
 - [x] Foregone Solution
 - [x] You Can Go Your Own Way
 - [x] Cryptopangrams
-- [x] Dat Bae
 
 <!-- ### 1A
 - [ ] -->
@@ -33,6 +32,4 @@ It's good enough; it runs fast enough; I'm lazy; it has much handled for me.
 Contributions are greatly appreciated! Do a pull request, or just start your own repository! Let me know if there are any errors in my solutions as well! Greatest appreciations in advance!
 
 ## License
-This work is licensed under [GPLv3](LICENSE).
-
 Problems are directly retrieved from [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) website.
