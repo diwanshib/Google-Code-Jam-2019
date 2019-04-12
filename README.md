@@ -17,7 +17,8 @@ In each folder, the following files can be present:
 It's good enough; it runs fast enough; I'm used to it.
 
 ## Results
-* Qualification: 100/100, #154
+* Qualification: 40/100
+* In learning mode
 
 ## Progress
 ### Qualification
